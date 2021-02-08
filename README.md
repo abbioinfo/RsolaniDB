@@ -18,7 +18,7 @@ Perl Library: CGI
 
 Step1: Clone the repository
 ```
-git clone https://gitlab.kaust.edu.sa/kaushia/rsolanidb.git
+git clone https://github.com/abbioinfo/RsolaniDB.git
 cd rsolanidb
 ```
 Step2: Update the local copy of MySQL database
