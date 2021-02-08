@@ -10,7 +10,7 @@ In order to create a local copy of the database, following softwares and tools a
 
 ```
 Operating System: UNIX-based recommended (e.g. Linux or Mac OS)
-Softwares : Apache , Perl, R and MySQL
+Softwares : Apache-server (2.4.29 for Ubuntu or higher) , Perl (5.26.1 or higher), R (version 3.6 or higher) and MySQL (8.0.22 for Linux or higher)
 R Libraries: topGO (version 3.12 or higher), bc3net (version 1.0.4 or higher), dplyr (version 1.0 or higher)
 Perl Library: CGI
 ```
