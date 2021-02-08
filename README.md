@@ -29,7 +29,7 @@ cp RhDB /var/www/cgi-bin/
 ```
 **Note**: *The path of cgi-bin directory may be /usr/lib/cgi-bin (or any other directory, instead of /var/www/cgi-bin/). Please check with your apache config file to know the deafult cgi-bin directory.*
 
-**Note**: *The default password used in the MySQL database scripts is abhi1234. If you are using any other MySQL password, please change the default password in perl scripts/module available in cgi-bin directory.*
+**Note**: *The default password used in the MySQL database scripts is abhi1234. If you are using any other MySQL password, please change the default password in perl scripts or (.pm) modules available in cgi-bin directory.*
 
 
 # Cite
